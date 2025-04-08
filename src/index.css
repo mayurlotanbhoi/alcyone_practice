@@ -1,0 +1,8 @@
+.custom-offcanvas {
+  z-index: 1050;
+  background-color: white;
+}
+
+body.offcanvas-backdrop {
+  background-color: transparent !important;
+}
